@@ -1,3 +1,6 @@
+---0.24---
+fixed URI encoding
+(modified to use the function 'encodeURI' instead of 'escape')
 ---0.23---
 fixed special characters in params
 added priority examples
